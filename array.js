@@ -74,3 +74,7 @@ console.log(sum)
 
 const multiply = nums.reduce((acc, cur) => acc * cur, 1)
 console.log(multiply)
+
+const towns = ["awka", "onitsha", "aba"]
+const myTown = towns.map((town) => `i'm from ${town}`);
+console.log(myTown)
