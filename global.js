@@ -9,3 +9,5 @@ console.log(score(71))
 // const minus num = (num) => {
 //     return
 // }
+
+console.log("welcome back to the class")
