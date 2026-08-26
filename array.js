@@ -78,3 +78,5 @@ console.log(multiply)
 const towns = ["awka", "onitsha", "aba"]
 const myTown = towns.map((town) => `i'm from ${town}`);
 console.log(myTown)
+
+console.log("welcome back to the class")
